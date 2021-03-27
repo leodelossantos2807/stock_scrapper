@@ -1,0 +1,10 @@
+1º objetivo: Avisar cuando cambia el estado una prenda en determinado talle.
+
+Tareas:
+	- Traer la información de una url de Zara
+	
+
+https://medium.com/@elenasn7/getting-started-withweb-scraping-in-python-part-1-eff3aa1ae459
+
+
+
