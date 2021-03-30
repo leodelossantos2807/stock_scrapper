@@ -21,7 +21,6 @@ if __name__ == '__main__':
     if match:
         string_lst = match.group().split('"sizes":', maxsplit=1)[-1] + ']'
         result_json = json.loads(string_lst)
-        print(result_json)
         for item in result_json:
             print(f"Talle: {item['name']} --> {item['availability']}")
     
